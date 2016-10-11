@@ -27,6 +27,10 @@
 - [Segurança Legal](http://www.segurancalegal.com/lista-de-episodios/)
 - [i sh0t the sheriff](http://www.naopod.com.br/)
 
+##Notícias (diários)
+- [Coca Tech](https://cocatech.com.br/cast)
+- [Loop Matinal](http://www.loopmatinal.com/)
+
 # Podcast-Internacionais
 
 ##GNU/Linux
